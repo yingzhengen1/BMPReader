@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BmpCompression:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BmpCompression_jar</output-path>
+    <root id="archive" name="BmpCompression.jar">
+      <element id="module-output" name="BmpCompression" />
+    </root>
+  </artifact>
+</component>

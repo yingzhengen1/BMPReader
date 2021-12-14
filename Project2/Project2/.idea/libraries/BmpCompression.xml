@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BmpCompression">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BmpCompression/out/artifacts/BmpCompression_jar/BmpCompression.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
